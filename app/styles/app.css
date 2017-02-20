@@ -29,6 +29,7 @@ input[type=search]{
     font-style: oblique;
     font-kerning: auto;
     font-color: white;
+    font-family: 'IM Fell English', serif;
 }
 /*#style{*/
     /*position: absolute;*/
@@ -65,10 +66,34 @@ input[type=search]{
 }
 a{
     color: firebrick;
+    font-family: "Merienda", cursive;
+
+
 }
 #button{
     color: darkred;
     display: inline-block;
     font-weight: bolder;
     text-decoration: #ff2255;
+    font-family: "Ewert", cursive;
+    font-size: larger;
+}
+p{
+    font-family: "Merienda", cursive;
+    font-size: larger;
+}
+h3{
+    font-family: "Creepster", cursive;
+}
+h1{
+    font-family: "Nosifer", cursive;
+}
+link{
+    font-family: "Cinzel Decorative", cursive;
+}
+#text{
+    font-family: "Ewert", cursive;
+    font-size: larger;
+    color: firebrick;
+
 }
